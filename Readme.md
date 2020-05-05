@@ -1,7 +1,7 @@
 
 ### All the references goes here.
-
-
+ - http://davegamache.com/parallax/
+ - https://github.com/dhg/davegamache/tree/master/parallax
 
 ### Notes
 
